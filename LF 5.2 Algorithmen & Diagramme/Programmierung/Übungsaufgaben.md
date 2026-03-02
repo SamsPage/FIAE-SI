@@ -8,7 +8,7 @@ Schreibe eine Funktion, die die Buchstaben (keine Leerzeichen, Ziffern oder Sond
 
 *Bonusaufgabe:* Schreibe eine Funktion, die die Wörter, Sätze oder Absätze zählt (leere Zeilen oder doppelte Leerzeichen oder Satzzeihen beachten.) **Diese Aufgabe ist schwer.**
 ## Beispieltext:
-`Ut dolores temporibus numquam. Iste occaecati blanditiis temporibus voluptatem maxime eaque laboriosam. Sit aut reprehenderit adipisci.
+`Ut dolores temporibus numquam. Iste occaecati blanditiis temporibus voluptatem maxime eaque laboriosam. Sit aut reprehenderit adipisci.`
 
 `Est ducimus laudantium esse facere et consequatur. Aut dolorem ut at rerum molestiae adipisci aut debitis. Illo sit architecto voluptate eum. Eius natus sed reprehenderit optio magnam magnam.`
 
@@ -23,3 +23,6 @@ Schreibe eine Funktion, die eine Dezimalzahl ins Dual- oder Hexadezimalzahlensys
 
 *Bonusaufgabe 1:* Schreibe die Funktion so um, dass die Zahlenbasis als zusätzlicher Parameter der Funktion übergeben werden kann.
 *Bonusaufgabe 2:* Erweitere die Funktion so, dass sie auch Fließkommazahlen unterstützt. **Diese Aufgabe ist schwer.**
+# Dezimaltrennzeichen
+In vielen Programmier-, Skript- und Auszeichnungssprachen wird der Punkt als Dezimaltrennzeichen verwendet, in Deutschland ist aber das Komma üblich.
+Schreibe ein Hauptprogramm, das eine Zahl vom Nutzer eingeben lässt und eine beliebige einfache Berechnung mit dieser Zahl ausführt, sowie eine Funktion, die eine Zahl mit Komma (als Zeichenkette) umwandelt in eine Zahl, mit der gerechnet werden kann.
