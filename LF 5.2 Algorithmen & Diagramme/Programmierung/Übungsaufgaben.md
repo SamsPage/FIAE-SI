@@ -15,3 +15,8 @@ Beispieltext:
 `Quod voluptas inventore placeat non excepturi qui iste quod. Est reiciendis ea commodi sed unde voluptas. Vero dolorem voluptatum accusantium nemo eos. Odio quam hic numquam aut deleniti iste. Aut sed voluptatem deserunt. Ipsa blanditiis molestiae rem aut similique rem laboriosam nemo.`
 
 `Mollitia accusamus porro enim. Aperiam aut recusandae eaque rem repellat alias labore ut. Illum vero nesciunt aut fugiat molestiae et ratione eos. Est eos temporibus neque nesciunt eius ut ut qui. Sunt animi aut et molestiae aut iusto maxime. Voluptatum qui placeat et odit aut totam nihil.`
+# Zahlenbasis
+Binär- und Hexadezimalzahlen wurden im Kapitel [[Zahlensysteme]] behandelt.
+Schreibe eine Funktion, die eine Dezimalzahl ins Dual- oder Hexadezimalzahlensystem umwandelt (als Zeichenkette) und ein Hauptprogramm, das eine Zahl vom Nutzer einlesen lässt und das Ergebnis ausgibt.
+*Bonusaufgabe 1:* Schreibe die Funktion so um, dass die Zahlenbasis als zusätzlicher Parameter der Funktion übergeben werden kann.
+*Bonusaufgabe 2:* Erweitere die Funktion so, dass sie auch Fließkommazahlen unterstützt. **Diese Aufgabe ist schwer.**
