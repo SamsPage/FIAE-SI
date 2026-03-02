@@ -302,7 +302,7 @@ Kundenbeziehungen sind in der IT-Branche ein zentraler Erfolgsfaktor. Sie entsch
 - Kunden untereinander vernetzen - schafft Loyalität über das Produkt hinaus
 - Bsp.: User-Groups, GitHub-Community, Kunden-Forum, jährliche Konferenz
 
-**Vertrauen & Datenschutz:** 
+**(Vertrauen & Datenschutz:)** 
 - Sensible Daten und Geschäftsprozesse erfordern besonderes Vertrauen
 - Bsp.: ISO 27001 Zertifizierung, transparente Datenschutz-Policy, DSGVO-Konformität
 
