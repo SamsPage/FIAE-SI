@@ -1,3 +1,6 @@
+
+> [!IMPORTANT]
+> Ein Unternehmen ist eine wirtschaftliche Einheit, die materielle oder immaterielle Güter anbietet um die Bedürfnisse von Kunden zu befriedigen.
 ## Das ökonomische Prinzip
 
 > *Wirtschaften* ist **planvolles Handeln** unter Beachtung des ökonomischen Prinzips, welches das Spannungsverhältnis zwischen **unbegrenzten Bedürfnissen** und **begrenzten Gütern** zu verringern versucht. 

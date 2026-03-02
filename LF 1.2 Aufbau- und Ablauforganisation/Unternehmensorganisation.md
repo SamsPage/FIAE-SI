@@ -96,7 +96,7 @@ Gegenüberstellung Autoritärer und Kooperativer Führungsstil:
 	3. Leistung überwachen
 	4. Fortschritt evaluieren
 	5. Erfolge belohnen
-- *Bsp.: Eine Firma möchte den Umsatz im nächsten Jahr um 10% steigern. Die Vertriebsleitung vereinbart mit seinem Team: Jede\*r Mitarbeitende soll monatlich 20 neue Kundenkontakte aufbauen. Nach drei Monaten wird geprüft: Sind wir auf dem richtigen Weg? Falls nicht, werden Maßnahmen angepasst. *
+- *Bsp.: Eine Firma möchte den Umsatz im nächsten Jahr um 10% steigern. Die Vertriebsleitung vereinbart mit seinem Team: Jede\*r Mitarbeitende soll monatlich 20 neue Kundenkontakte aufbauen. Nach drei Monaten wird geprüft: Sind wir auf dem richtigen Weg? Falls nicht, werden Maßnahmen angepasst.*
 
 **Management by Delegation:**
 - Übertragung von Verantwortung und Aufgaben an Mitarbeitende, es werden komplette Aufgaben und konkrete Ziele vorgegeben
