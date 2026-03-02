@@ -24,7 +24,7 @@ Produktqualität erhöhen <-> Produktionskosten senken
 Work-Life-Balance fördern <-> Projektverfügbarkeit sicherstellen
 Innovationsgeschwindigkeit <-> IT-Sicherheit
 
-**Ziele können weiterhin unterschieden werden nach:**
+#### Ziele können weiterhin unterschieden werden nach:
 
 - Inhalt 
 	- formal (übergeordnete Erfolgsziele), bspw. Wirtschaftlichkeit, Rentabilität, Liquidität
