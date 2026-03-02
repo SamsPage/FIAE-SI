@@ -1,3 +1,6 @@
+
+> [!IMPORTANT]
+> Ein Unternehmen ist eine wirtschaftliche Einheit, die materielle oder immaterielle Güter anbietet um die Bedürfnisse von Kunden zu befriedigen.
 ## Das ökonomische Prinzip
 
 > *Wirtschaften* ist **planvolles Handeln** unter Beachtung des ökonomischen Prinzips, welches das Spannungsverhältnis zwischen **unbegrenzten Bedürfnissen** und **begrenzten Gütern** zu verringern versucht. 
@@ -24,7 +27,7 @@ Produktqualität erhöhen <-> Produktionskosten senken
 Work-Life-Balance fördern <-> Projektverfügbarkeit sicherstellen
 Innovationsgeschwindigkeit <-> IT-Sicherheit
 
-**Ziele können weiterhin unterschieden werden nach:**
+#### Ziele können weiterhin unterschieden werden nach:
 
 - Inhalt 
 	- formal (übergeordnete Erfolgsziele), bspw. Wirtschaftlichkeit, Rentabilität, Liquidität
