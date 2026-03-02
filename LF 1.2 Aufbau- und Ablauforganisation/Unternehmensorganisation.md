@@ -51,12 +51,12 @@ Die Unternehmensführung sollte regelmäßig den folgenden Zyklus durchlaufen:
 
 **Autoritär:**
 - Klare Anweisungen werden ohne Diskussion befolgt
-- *"Ich habe beschlossen, dass wir die Marketingstrategie ändern. Ich erwarte, dass ihr diese Änderungen umsetzt und mir regelmäßig Bericht erstattet.*"*
+- *"Ich habe beschlossen, dass wir die Marketingstrategie ändern. Ich erwarte, dass ihr diese Änderungen umsetzt und mir regelmäßig Bericht erstattet."*
 
 **Informierend:**
 - Regelmäßige Meetings um Informationen zu teilen und Fragen zu beantworten
 - Entscheidungsgewalt immer noch bei der Unternehmensleitung
-- *"Ich möchte euch über unsere aktuellen Geschäftsergebnisse informieren und euch über unsere Pläne für die nächsten Quartale auf dem Laufenden halten.*"*
+- *"Ich möchte euch über unsere aktuellen Geschäftsergebnisse informieren und euch über unsere Pläne für die nächsten Quartale auf dem Laufenden halten."*
 
 **Partizipativ:**
 - Entscheidungen werden auf Grundlage des Konsenses und Einbeziehung der Meinungen aller Teammitglieder getroffen
@@ -96,13 +96,13 @@ Gegenüberstellung Autoritärer und Kooperativer Führungsstil:
 	3. Leistung überwachen
 	4. Fortschritt evaluieren
 	5. Erfolge belohnen
-- *Bsp.: Eine Firma möchte den Umsatz im nächsten Jahr um 10% steigern. Die Vertriebsleitung vereinbart mit seinem Team: Jede\*r Mitarbeitende soll monatlich 20 neue Kundenkontakte aufbauen. Nach drei Monaten wird geprüft: Sind wir auf dem richtigen Weg? Falls nicht, werden Maßnahmen angepasst. *
+- *Bsp.: Eine Firma möchte den Umsatz im nächsten Jahr um 10% steigern. Die Vertriebsleitung vereinbart mit seinem Team: Jede\*r Mitarbeitende soll monatlich 20 neue Kundenkontakte aufbauen. Nach drei Monaten wird geprüft: Sind wir auf dem richtigen Weg? Falls nicht, werden Maßnahmen angepasst.*
 
 **Management by Delegation:**
 - Übertragung von Verantwortung und Aufgaben an Mitarbeitende, es werden komplette Aufgaben und konkrete Ziele vorgegeben
 - Wer eine Kompetenz hat, bekommt die Aufgabe; Eingriff der Vorgesetzten bei Fehlern oder Ausnahmefällen
 - Klare Kommunikation, Regelmäßige Besprechungen / Kontrolle
-- *Bsp.: Ein Restaurantbesitzer delegiert die Personalplanung an seinen Restaurantleiter. Solange genug Personal da ist, greift der Besitzer nicht ein. Erst wenn es Probleme gibt (z.B. zu wenig Personal an Feiertagen), schaut er sich die Sache genauer an.
+- *Bsp.: Ein Restaurantbesitzer delegiert die Personalplanung an seinen Restaurantleiter. Solange genug Personal da ist, greift der Besitzer nicht ein. Erst wenn es Probleme gibt (z.B. zu wenig Personal an Feiertagen), schaut er sich die Sache genauer an.*
 
 **Management by Exception:**
 - Führung durch den Vorgesetzten nur in Ausnahmesituationen bzw. beim Abweichen von festgelegten Standards, Konzentration auf Überwachung und Kontrolle von ausschließlich kritische Aktivitäten oder jene, welche von zuvor festgelegten Standards/Plänen stark abweichen
