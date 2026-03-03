@@ -72,3 +72,42 @@ Produktionsgüter: dienen der Herstellung anderer Güter (gewerblich)
 **Rechte:**
 - Immaterielle Güterrechte, die handelbar und übertragbar sind
 - z.B. Patente, Lizenzen, Urheberrechte
+
+### Die 5 Leistungselemente in der IT
+
+|     | Kategorie              | Beschreibung                                                                                  | Beispiele aus der IT                                           |
+| --- | ---------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1   | Kernleistung           | zentrales Produkt / Hauptdienstleistung                                                       | Cloud-Speicher, Netzwerkinfrastruktur, IT-Sicherheitsplattform |
+| 2   | Zusatzleistung         | Ergänzende Leistungen zur Unterstützung des Kunden                                            | Installation, Schulung, technischer Support                    |
+| 3   | Serviceleistungen      | Laufende Betreuung während der Nutzung                                                        | Helpdesk, Wartung, Updates,  SLA                               |
+| 4   | Erweiterte Leistungen  | Differenzierende Extras für Wettbewerbsvorteile - heben das Unternehmen von der Konkurrenz ab | Customizing, Beratung, Systemintegration                       |
+| 5   | After-Sales-Leistungen | Kundenbindung nach Kauf / Projektabschluss                                                    | Garantie, Upgrades, Kundenportal                               |
+
+**Kernleistung:**
+- erfüllt das eigentliche Bedürfnis des Kunden und bildet die Grundlage des gesamten Leistungsangebotes → ohne Kernleistung kein Geschäftsmodell
+- klar definierbar
+- Grundlage aller Extras
+
+**Zusatzleistungen:**
+- unterstützen Kunden vor, während und nach der Einführung der Kernleistung
+- erleichtern die Nutzung und steigern den wahrgenommenen Gesamtwert des Angebots
+- Beispiel: Kunde wechselt zu Azure (Cloud-Migration = Kernleistung)
+		→ Zusatzleistungen: Analyse der bestehenden Infrastruktur, Migrationsplan und Test-Setup, Schulung der IT-Admins, Konfiguration von Sicherheitsrichtlinien
+
+**Service-Leistungen:**
+- sichern den laufenden Betrieb der Kernleistung. Werden dauerhaft erbracht und sind oft in Serviceverträgen (SLA) geregelt
+
+**Erweiterte Leistungen:**
+- werden nicht von allen Anbietern angeboten und schaffen individuelle Mehrwerte, die starke Kundenbindung erzeugen
+- Beispiele:
+	- Customizing - individuelle Anpassung der Software an Kundenprozesse: eigene Felder, Masken, Workflows, Berichte, Corporate Design
+	- IT-Beratung - strategische Beratung, Cloud-Strategie, IT-Sicherheitskonzept, Digitalisierungsfahrplan, Vendor-Auswahl
+	- Systemintegration: Verbindung verschiedener Systeme über APIs, Middleware oder ETL-Prozesse (z.B. CRM + ERP + Webshop)
+- Premium-Preissetzung möglich, Eintrittsbarrieren für Konkurrenz
+
+**After-Sales-Leistungen:**
+- werden nach dem Kauf oder der Bereitstellung erbracht
+- Ziel ist langfristige Kundenbindung, Zufriedenheitssicherung und die Generierung von Folgeaufträgen
+
+
+![Beispiele Leistungselemente](/Bilder/Beispiele_Leistungselemente.png)
