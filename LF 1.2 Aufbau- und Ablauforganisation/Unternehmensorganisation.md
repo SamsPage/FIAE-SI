@@ -211,6 +211,7 @@ Die Art und Weise der Mitarbeiterführung hat einen entscheidenden Einfluss auf 
 | entspricht                                                                                                                               |                    Geschäftsführung                     |                    Abteilungs-, Filialleitung                     |                                Teamleitung, Vorarbeitende                                 |
 | **[Zielsetzung](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Unternehmensziele.md#ziele-können-weiterhin-unterschieden-werden-nach)** |                       strategisch                       |                             taktisch                              |                                         operativ                                          |
 | **Beispiele**                                                                                                                            | - Gesamtverantwortung<br>- Ausrichtung des Unternehmens | - Leitung Abteilungen<br>- Einhaltung von Unternehmensrichtlinien | - Führen einzelner Teams<br>- Einholen von Feedback<br>- Koordination von Arbeitsabläufen |
+
 ![Ernennung der Führung](/Bilder/Pfeil_Fuehrung.png)
 
 Zu ziele siehe generell: [LF 1.1/Unternehmensziehle](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Unternehmensziele.md)
