@@ -2,15 +2,7 @@ Dies ist eine lose Sammlung von Übungsaufgaben zum Thema Programmierung. Alle A
 # Ressourcen
 Dies sind Beispiele für Eingaben, die als Variablen eingegeben werden können und nicht einer spezifischen Aufgabe zugeordnet sind.
 ## Blindtext
-`Ut dolores temporibus numquam. Iste occaecati blanditiis temporibus voluptatem maxime eaque laboriosam. Sit aut reprehenderit adipisci.`
-
-`Est ducimus laudantium esse facere et consequatur. Aut dolorem ut at rerum molestiae adipisci aut debitis. Illo sit architecto voluptate eum. Eius natus sed reprehenderit optio magnam magnam.`
-
-`Voluptas natus sed et. Placeat omnis nesciunt numquam cumque illum excepturi molestiae et. Placeat consequatur sequi nihil quidem. Est praesentium sunt sunt mollitia voluptatem et minus. Eius necessitatibus omnis pariatur ea aspernatur aut.`
-
-`Quod voluptas inventore placeat non excepturi qui iste quod. Est reiciendis ea commodi sed unde voluptas. Vero dolorem voluptatum accusantium nemo eos. Odio quam hic numquam aut deleniti iste. Aut sed voluptatem deserunt. Ipsa blanditiis molestiae rem aut similique rem laboriosam nemo.`
-
-`Mollitia accusamus porro enim. Aperiam aut recusandae eaque rem repellat alias labore ut. Illum vero nesciunt aut fugiat molestiae et ratione eos. Est eos temporibus neque nesciunt eius ut ut qui. Sunt animi aut et molestiae aut iusto maxime. Voluptatum qui placeat et odit aut totam nihil.`
+`Ut dolores temporibus numquam. Iste occaecati blanditiis temporibus voluptatem maxime eaque laboriosam. Sit aut reprehenderit adipisci. Est ducimus laudantium esse facere et consequatur. Aut dolorem ut at rerum molestiae adipisci aut debitis. Illo sit architecto voluptate eum. Eius natus sed reprehenderit optio magnam magnam. Voluptas natus sed et. Placeat omnis nesciunt numquam cumque illum excepturi molestiae et. Placeat consequatur sequi nihil quidem. Est praesentium sunt sunt mollitia voluptatem et minus. Eius necessitatibus omnis pariatur ea aspernatur aut. Quod voluptas inventore placeat non excepturi qui iste quod. Est reiciendis ea commodi sed unde voluptas. Vero dolorem voluptatum accusantium nemo eos. Odio quam hic numquam aut deleniti iste. Aut sed voluptatem deserunt. Ipsa blanditiis molestiae rem aut similique rem laboriosam nemo. Mollitia accusamus porro enim. Aperiam aut recusandae eaque rem repellat alias labore ut. Illum vero nesciunt aut fugiat molestiae et ratione eos. Est eos temporibus neque nesciunt eius ut ut qui. Sunt animi aut et molestiae aut iusto maxime. Voluptatum qui placeat et odit aut totam nihil.`
 ## Arrays
 Natürliche Zahlen mit Dopplungen: \[0,2,7,2,8,3,4,8,9,1\]
 Nur 0 und 1: \[0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0\]
@@ -24,7 +16,7 @@ Das *Primorial* (auch *Primfakultät*) einer Zahl ist das Produkt aller Primzahl
 
 Schreibe eine Funktion, die das Primorial einer Zahl berechnet und ein kurzes Hauptprogramm, das eine Zahl vom Nutzer einliest.
 
-*Bonusaufgabe:* Schreibe die Funktion so um, dass sie das n-te Primorial berechnet, also die Anzahl der Faktoren eingegeben wird, z.B. p_5# = 11# = 2 × 3 × 5 × 7 = 210.
+*Bonusaufgabe:* Schreibe die Funktion so um, dass sie das n-te Primorial berechnet, also die Anzahl der Faktoren eingegeben wird, z.B. p_5# = 11# = 2 × 3 × 5 × 7 × 11 = 2310.
 # Buchstaben zählen
 Schreibe eine Funktion, die die Buchstaben (keine Leerzeichen, Ziffern oder Sonderzeichen) in einer langen Zeichenkette zählt.
 
