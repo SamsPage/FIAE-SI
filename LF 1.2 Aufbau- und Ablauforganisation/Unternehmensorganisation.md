@@ -214,4 +214,4 @@ Die Art und Weise der Mitarbeiterführung hat einen entscheidenden Einfluss auf 
 
 ![Ernennung der Führung](/Bilder/Pfeil_Fuehrung.png)
 
-Zu ziele siehe generell: [LF 1.1/Unternehmensziehle](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Unternehmensziele.md)
+Zu Ziele siehe generell: [LF 1.1/Unternehmensziele](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Unternehmensziele.md)
