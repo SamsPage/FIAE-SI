@@ -1,5 +1,5 @@
-Wertschöpfung ist der Prozess der Wertsteigerung von Gütern oder Dienstleistungen.
-Aus Input (Ressourcen) wird durch Verarbeitung Output (Produkt/Service) mit mit höherem Wert geschaffen.
+Wertschöpfung ist der **Prozess der Wertsteigerung** von Gütern oder Dienstleistungen.
+Aus **Input (Ressourcen)** wird durch Verarbeitung **Output (Produkt/Service)** mit mit höherem Wert geschaffen.
 
 **Beispiel Wertschöpfung IT**: Hardware + Programmierung → fertige Software-Lösung (Wert wurde gesteigert!)
 
