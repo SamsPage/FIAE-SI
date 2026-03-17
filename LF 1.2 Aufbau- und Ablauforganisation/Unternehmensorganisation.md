@@ -215,3 +215,20 @@ Die Art und Weise der Mitarbeiterführung hat einen entscheidenden Einfluss auf 
 ![Ernennung der Führung](/Bilder/Pfeil_Fuehrung.png)
 
 Zu Ziele siehe generell: [LF 1.1/Unternehmensziele](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Unternehmensziele.md)
+
+#### Risikomanagement
+→ Welche externen Einflussfaktoren wirken auf ein Unternehmen?
+
+- Wirtschaft und Wettbewerb (Globalisierung, Zunahme der Anzahl von Konkurrenten)
+- Technologie (Innovationen, Modernisierung)
+- Politik (Änderung von Verordnungen/Gesetzen)
+- Gesellschaft (Wertvorstellungen, Lebens-/Arbeitsbedingungen und Gewohnheiten, Nachfrageverhaltens)
+- Umwelt (Veränderungen in der Umwelt, Verknappung der Rohstoffe)
+
+1. **Risiken identifizieren** → Systematische Erfassung aller Potenziellen Risiken
+2. **Risikoanalyse** durchführen
+	- Bewertung der Eintrittswahrscheinlichkeit und Schadenshöhe
+	- Kategorisierung der Risiken (z.B. niedrig, mittel, hoch)
+3. **Risikobewertung** vornehmen
+	- Entscheidung über den Umgang mit Risiken: Akzeptanz, Gegenmaßnahmen oder Anpassung der Planung
+4. **Maßnahmenplan** erstellen → Entwicklung von Strategien zur Risikominimierung
