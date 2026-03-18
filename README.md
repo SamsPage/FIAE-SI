@@ -16,11 +16,13 @@
 
 > [!IMPORTANT]
 > Aufbau- und Ablauforganisation ist eine Wiederholung / Doppelung von LF 1.2.
-> Das Thema wurde sowohl bei Frau Triebel als auch bei Frau Fritzsche behandelt und ist unter 1.2/Unternehmensorganisation noch einmal zu finden.
+> Das Thema wurde sowohl bei Frau Triebel als auch bei Frau Fritzsche behandelt und ist unter 1.2/Aufbauorganisation noch einmal zu finden. Trotz des Namens wurde im LF 1.1 die Ablauforganisation nur beiläufig erwähnt.
+
 
 ## LF 1.2 Aufbau- und Ablauforganisation
 
 - [Unternehmensorganisation](/LF%201.2%20Aufbau-%20und%20Ablauforganisation/Unternehmensorganisation.md)
+- [Aufbauorganisation](/LF%201.2%20Aufbau-%20und%20Ablauforganisation/Aufbauorganisation.md)
 ## LF 2.1 Arbeitsmethoden
 
 - [Projekt](/LF%202.1%20Arbeitsmethoden/Projekt.md)

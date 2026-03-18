@@ -58,7 +58,9 @@
 ### Arten der Prokura
 
 **Einzelprokura:** Ein Prokurist kann allein handeln und das Unternehmen vertreten.
+
 **Gesamtprokura:** Zwei oder mehr Prokuristen müssen gemeinsam handeln.
+
 **Filialprokura:** Prokura ist auf eine bestimmte Niederlassung/Filiale beschränkt.
 
 ## Handlungsvollmacht
