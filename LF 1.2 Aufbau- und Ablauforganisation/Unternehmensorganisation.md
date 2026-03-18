@@ -232,3 +232,46 @@ Zu Ziele siehe generell: [LF 1.1/Unternehmensziele](/LF%201.1%20Die%20eigene%20R
 3. **Risikobewertung** vornehmen
 	- Entscheidung über den Umgang mit Risiken: Akzeptanz, Gegenmaßnahmen oder Anpassung der Planung
 4. **Maßnahmenplan** erstellen → Entwicklung von Strategien zur Risikominimierung
+
+## Aufbau- und Ablauforganisation
+
+![Aufbau- und Ablauforganisation](/Bilder/Aufbau-_und_Ablauforganisation.png)
+
+**Organisation:**
+- ist die Gestaltung der Zusammenarbeit zwischen den Funktionsbereichen und Mitarbeitern
+- innerhalb eines Unternehmens die Verantwortung der Führungskräfte und Mitarbeiter zu bestimmen und deren Beziehungen zueinander zu regeln
+
+**Aufgabenverteilung:**
+- leitet sich von den Zielen des Unternehmens ab. Der Prozess der Zuordnung von Mitarbeitern zu den Aufgaben verläuft in 4 Phasen.
+
+![Aufgabenverteilung Phasen](/Bilder/Aufgaben_Phasen.png)
+
+### Stellenbildung
+→ Zusammenfassen von Einzelaufgaben, die in der Aufgabengliederung ermittelt wurden, nach sachlichen Gesichtspunkten für einzelne Stelleninhaber zusammen
+
+**Stelle** := kleinste Organisationseinheit im Unternehmen
+
+**Grundprinzipien:**
+- Überschaubarkeit (Verhinderung von Überforderung)
+- Angemessenheit (Leistungsfähigkeit, Qualifikation)
+- Arbeitseinteilung (zunehmende Spezialisierung)
+
+**Vorteile der Arbeitsteilung, die mit zunehmender Spezialisierung verbunden sind:**
+- Vereinfachtes Arbeiten
+- Rationales Abwickeln von Aufgaben mit Maschinen
+- Sparen von Material und Zeit
+- Verbesserung des Arbeitsergebnisses, Anheben der Arbeitseinkommen
+- Verkürzen der Ausbildungszeit
+
+**Nachteile: (allgemein, Beispielsweise)**
+- Monotone Arbeiten
+- Gesundheitliche Schäden, geistige Unterforderung
+- Verlieren des Überblickes über betriebliche Tätigkeit
+- Unzufriedenheit, schlechte Arbeitsleistung
+- Einseitige Ausbildung, Abhängigkeit vom Betrieb
+
+**Stellenarten:**
+- Ausführende Stelle → ohne Leitungsfunktion (Arbeiter, Angestellter, Schreibkraft)
+- Linienstelle (Instanz) → mit Leitungsfunktion (leitender Angestellter, Vorarbeiter, Teamleiter)
+- Stabstelle → Hilfsstelle für Instanz (Beratung, Informationen), ohne Leitungsfunktion (Assistent, Rechtsabteilung, IT-Abteilung)
+

@@ -11,7 +11,12 @@
 - [Unternehmensziele](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Unternehmensziele.md)
 - [Marktstruktur, Marktumfeld & Kundenbeziehungen](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Marktstruktur,%20Marktumfeld%20&%20Kundenbeziehungen.md)
 - [Wertschöpfungskette und Organisationsstruktur](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Wertschöpfungskette%20und%20Organisationsstruktur.md)
+- [Aufbau- und Ablauforganisation](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Aufbau-%20und%20Ablauforganisation.md)
 - [Vollmachten im Unternehmen](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Vollmachten%20im%20Unternehmen.md)
+
+> [!IMPORTANT]
+> Aufbau- und Ablauforganisation ist eine Wiederholung / Doppelung von LF 1.2.
+> Das Thema wurde sowohl bei Frau Triebel als auch bei Frau Fritzsche behandelt und ist unter 1.2/Unternehmensorganisation noch einmal zu finden.
 
 ## LF 1.2 Aufbau- und Ablauforganisation
 
