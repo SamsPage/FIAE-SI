@@ -10,6 +10,8 @@
 - [Bedürfnisse und Güter](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Bedürfnisse%20und%20Güter.md)
 - [Unternehmensziele](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Unternehmensziele.md)
 - [Marktstruktur, Marktumfeld & Kundenbeziehungen](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Marktstruktur,%20Marktumfeld%20&%20Kundenbeziehungen.md)
+- [Wertschöpfungskette und Organisationsstruktur](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Wertschöpfungskette%20und%20Organisationsstruktur.md)
+- [Vollmachten im Unternehmen](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Vollmachten%20im%20Unternehmen.md)
 
 ## LF 1.2 Aufbau- und Ablauforganisation
 
