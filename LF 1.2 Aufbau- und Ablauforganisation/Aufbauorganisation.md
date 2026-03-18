@@ -40,7 +40,7 @@
 - Stabstelle → Hilfsstelle für Instanz (Beratung, Informationen), ohne Leitungsfunktion (Assistent, Rechtsabteilung, IT-Abteilung)
 
 **Hierarchie:**
-→ System, das durch die Beziehungen der Über- bzw. Unterordnung zwischen den Stellen in einer Unternehmung gekennzeichnet ist (siehe [Stellenpyramide](LF%201.2%20Aufbau-%20und%20Ablauforganisation/Unternehmensorganisation.md#management))
+→ System, das durch die Beziehungen der Über- bzw. Unterordnung zwischen den Stellen in einer Unternehmung gekennzeichnet ist (siehe [Stellenpyramide](/LF%201.2%20Aufbau-%20und%20Ablauforganisation/Unternehmensorganisation.md#management))
 
 → kann entweder steil oder flach sein
 
