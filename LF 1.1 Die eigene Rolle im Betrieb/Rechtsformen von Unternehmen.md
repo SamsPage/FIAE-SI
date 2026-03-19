@@ -1,5 +1,8 @@
+
 → Wer haftet für Schulden?
+
 → Wie viel Kapital wird benötigt?
+
 → Wie komplex ist die Gründung?
 
 ![Übersicht Rechtsformen](/Bilder/Uebersicht_Rechtsformen.png)
