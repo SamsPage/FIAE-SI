@@ -13,6 +13,7 @@
 - [Wertschöpfungskette und Organisationsstruktur](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Wertschöpfungskette%20und%20Organisationsstruktur.md)
 - [Aufbau- und Ablauforganisation](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Aufbau-%20und%20Ablauforganisation.md)
 - [Vollmachten im Unternehmen](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Vollmachten%20im%20Unternehmen.md)
+- [Vollmachten im Unternehmen](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Rechtsformen%20von%20Unternehmen.md)
 
 > [!IMPORTANT]
 > Aufbau- und Ablauforganisation ist eine Wiederholung / Doppelung von LF 1.2.
