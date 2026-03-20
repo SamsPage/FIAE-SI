@@ -81,6 +81,7 @@
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           | → organisiert die Arbeit nach bestimmten Funktionen oder Tätigkeiten                                                                                               | → organisiert die Arbeit nach Produkten, Projekten oder Kunden                                                                                                                                                                                                       |
 | Beispiel: | - Entwicklungs- und Designabteilung<br>- Produktionsabteilung<br>- Beschaffungsabteilung<br>- Marketing- und Vertriebsabteilung<br>- Service- und Supportabteilung | - Fernseher<br>  - Produktentwicklungsteam<br>  - Produktions- und Beschaffungsteam<br>  - Marketing- und Vertriebsteam<br>- Smartphones<br>  - Produktentwicklungsteam<br>  - Produktions- und Beschaffungsteam<br>  - Marketing- und Vertriebsteam<br>- Kameras... |
+
 **Kriterien der Abteilungsbildung:**
 - Funktionsorientierte Organisation (Einkauf, Verkauf, Finanzierung, Buchhaltung)
 	(→ Verrichtungsprinzip)
