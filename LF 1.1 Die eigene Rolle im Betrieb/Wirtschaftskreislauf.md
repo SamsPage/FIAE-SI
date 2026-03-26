@@ -15,9 +15,9 @@
 
 **Sparen - Gut oder Schlecht?**
 
-| Vorteile                                                                                                                            | Nachteile                                                                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - Absicherung für Notfälle<br>- Aufbau von Vermögen<br>- Unabhängigkeit im Alter<br>- Zinseinnahmen / Rendite<br> - Weniger Konsum → Weniger Nachfrage<br>→ Unternehmen produzieren weniger<br>→ Entlassungen steigen<br>→ Einkommen sinken (weiter)<br>→ Sparquote steigt (noch mehr) )  -  -  -  -  -  -  -  -  -  |
+| Vorteile     | Nachteile        |
+| ------------ | ---------------- |
+| - Absicherung für Notfälle<br>- Aufbau von Vermögen<br>- Unabhängigkeit im Alter<br>- Zinseinnahmen / Rendite<br> | - Weniger Konsum → Weniger Nachfrage<br>→ Unternehmen produzieren weniger<br>→ Entlassungen steigen<br>→ Einkommen sinken (weiter)<br>→ Sparquote steigt (noch mehr) |
 
 Wenn alle gleichzeitig mehr sparen, führt das gesamtwirtschaftlich zu weniger Einkommen - und am Ende kann niemand mehr so viel sparen wie gewünscht.
 
