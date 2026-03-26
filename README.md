@@ -14,6 +14,7 @@
 - [Aufbau- und Ablauforganisation](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Aufbau-%20und%20Ablauforganisation.md)
 - [Vollmachten im Unternehmen](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Vollmachten%20im%20Unternehmen.md)
 - [Rechtsformen von Unternehmen](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Rechtsformen%20von%20Unternehmen.md)
+- [Wirtschaftskreislauf](/LF%201.1%20Die%20eigene%20Rolle%20im%20Betrieb/Wirtschaftskreislauf.md)
 
 > [!IMPORTANT]
 > Aufbau- und Ablauforganisation ist eine Wiederholung / Doppelung von LF 1.2.
@@ -24,6 +25,7 @@
 
 - [Unternehmensorganisation](/LF%201.2%20Aufbau-%20und%20Ablauforganisation/Unternehmensorganisation.md)
 - [Aufbauorganisation](/LF%201.2%20Aufbau-%20und%20Ablauforganisation/Aufbauorganisation.md)
+- [Ablauforganisation](/LF%201.2%20Aufbau-%20und%20Ablauforganisation/Ablauforganisation.md)
 ## LF 2.1 Arbeitsmethoden
 
 - [Projekt](/LF%202.1%20Arbeitsmethoden/Projekt.md)
