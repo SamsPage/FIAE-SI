@@ -9,17 +9,17 @@
 - Funktion
 - Kontrollfluss (UND, ODER, XOR)
 
-|                            Symbol                            |                                Bedeutung                                 |
-| :----------------------------------------------------------: | :----------------------------------------------------------------------: |
-|            ![Ereignis](/Bilder/EPK_ereignis.png)             |              **Ereignis**<br>Was passiert?<br>Neuer Zustand              |
-|            ![Funktion](/Bilder/EPK_funktion.png)             |              **Funktion**<br>Welche Reaktion, was passiert?              |
-|                 ![UND](/Bilder/EPK_UND.png)                  |                   **UND**<br>(Symbol **U**nten offen)                    |
-|                ![ODER](/Bilder/EPK_ODER.png)                 | Inklusives **ODER**<br>(A & B oder A oder B)<br>(Symbol **O**ben offen)  |
-| ![XOR](/Bilder/EPK_XOR.png)<br>![XOR2](/Bilder/EPK_XOR2.png) |             E**x**klusives Oder (**XOR**)<br>(Entweder Oder)             |
-|                             ///                              |                    **(Nachfolgend: Erweitertes EPK)**                    |
-|              ![Stelle](/Bilder/EPK_stelle.png)               |           Stelle oder Zuständigkeit<br>(oder Know-How-Quelle)            |
-|         ![Information](/Bilder/EPK_information.png)          | Information(squelle)/verwendetes Material<br>oder eingebundene Dokumente |
-|       ![EPK Beispiel](/Bilder/EPK_ereignisverweis.png)       |                                                                          |
+|                            Symbol                            |                                        Bedeutung                                        |
+| :----------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+|            ![Ereignis](/Bilder/EPK_ereignis.png)             |                     **Ereignis**<br>Was passiert?<br>Neuer Zustand                      |
+|            ![Funktion](/Bilder/EPK_funktion.png)             |                     **Funktion**<br>Welche Reaktion, was passiert?                      |
+|                 ![UND](/Bilder/EPK_UND.png)                  |                           **UND**<br>(Symbol **U**nten offen)                           |
+|                ![ODER](/Bilder/EPK_ODER.png)                 |         Inklusives **ODER**<br>(A & B oder A oder B)<br>(Symbol **O**ben offen)         |
+| ![XOR](/Bilder/EPK_XOR.png)<br>![XOR2](/Bilder/EPK_XOR2.png) |                    E**x**klusives Oder (**XOR**)<br>(Entweder Oder)                     |
+|                             ///                              |                           **(Nachfolgend: Erweitertes EPK)**                            |
+|              ![Stelle](/Bilder/EPK_stelle.png)               |                   Stelle oder Zuständigkeit<br>(oder Know-How-Quelle)                   |
+|         ![Information](/Bilder/EPK_information.png)          |        Information(squelle)/verwendetes Material<br>oder eingebundene Dokumente         |
+|       ![EPK Beispiel](/Bilder/EPK_ereignisverweis.png)       | Prozesswegweiser<br>Verweist auf einen anderen Prozess<br>(ähnlich einem Unterprogramm) |
 ## Ereignis
 → Was ist im Betrieb passiert?
 - Neuer Zustand (zeitpunktbezogen)
