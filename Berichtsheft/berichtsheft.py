@@ -29,20 +29,15 @@ ALIASES = {
     "Bewegungstherapie": "Bewegungstherapie",
 }
 
-def read_static_config(path="config.ini") -> dict:
-    cfg = ConfigParser()
-    cfg.read(path, encoding="utf-8")
-    return {
-        "NAME": cfg.get("user", "name", fallback=""),
-        "YEAR": cfg.get("user", "year", fallback=""),
-        "CLASS": cfg.get("user", "class", fallback=""),
-    }
-
+# Eine bessere Lösung würde Tabellen verwenden
 def insert_pagebreak_before_week2(doc: Document):
+    skip = True
+    lines = 5
     for p in doc.paragraphs:
-        if "{{%2_START%}}" in p.text:
-            pb = p.insert_paragraph_before()
-            pb.add_run().add_break(WD_BREAK.PAGE)
+        if p.text: skip = False
+        if not skip: lines -= 1
+        if not skip and lines == 0:
+            p.paragraph_format.page_break_before = True
             return
 
 def normalize_key(entry: str) -> str:
@@ -77,8 +72,6 @@ def is_slot_row(row):
         TIME_RE.match((row[2] or "").strip()) and
         TIME_RE.match((row[3] or "").strip())
     )
-
-    return
 
 def is_week_header(row):
     if len(row) < 9:
@@ -147,11 +140,12 @@ def format_day(date_str: str, subjects: dict, total: float):
     header = date_str  
 
     # SLOT → Themenliste
-    items = sorted(subjects.items(), key=lambda x: (-x[1], x[0]))
-    slot_lines = [f"- {ALIASES.get(k, k)} ({h:g}h)" for k, h in items]
+    # items sind schon sortiert
+    slot_lines = [f"- {ALIASES.get(k, k)}" for k in subjects.keys()]
     slot = "\n".join(slot_lines)
 
-    hour = f"{total:g}"
+    hour_lines = [f"{h:g} h" for h in subjects.values()]
+    hour = "\n".join(hour_lines)
     return header, slot, hour
 
 def build_content(days, cfg):
