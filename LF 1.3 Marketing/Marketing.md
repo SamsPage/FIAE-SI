@@ -42,3 +42,38 @@ Die erhobenen Daten können **primär** (also selbst erhoben, Feldforschung) ode
 | ------------------------------------------------------ | --------------------------------------------------- |
 | Gewinnung von neuen Daten                              | Nutzung vorhandener Daten                           |
 | • Befragung<br>• Beobachtung<br>• Auslesen von Geräten | • Reports<br>• Bestehende Umfragen<br>• Statistiken |
+
+### Gegenstände der Marktforschung
+
+![Gegenstände der Marktforschung](/Bilder/Marktforschung_Gegenstaende.png)
+
+**Kunden (Bedarfsforschung):**
+- Ziel: Verstehen der Kundenwünsche, Erwartungen und Kaufverhalten
+- Kundenforschung hilft dabei, gezielte Angebote zu entwickeln.
+
+**Konkurrenzforschung):
+- Ziel: Analyse der Wettbewerber, deren Stärken und Schwächen
+- Konkurrenzforschung unterstützt Unternehmen dabei, sich strategisch zu positionieren
+
+**Wirtschaftliche Lage (Konjunkturforschung):**
+- Ziel: Untersuchung der allgemeinen wirtschaftlichen Rahmenbedingungen
+- Konjunkturforschung liefert wichtige Informationen für die langfristige Planung.
+
+
+→ **Was ist ein Markt?**
+- Raum von **potenziellen Transaktionen** zwischen Käufern und Verkäufern, unabhängig davon, ob dieser Raum **physisch oder virtuell** ist.
+- Auf dem Markt und insbesondere im Kontext einer kaufmännischen Ausbildung sind **absatzorientierte Ziele** von großer Bedeutung.
+- Die Ziele eines Unternehmens können vielfältig sein, aber in Bezug auf den Markt zieht es in der Regel eine **Steigerung des Absatzes** in Betracht.
+- Das **vorrangige Ziel** ist es, den **Marktanteil zu erhöhen,** mehr Einheiten abzusetzen und damit die Einnahmen erhöhen.
+- Die **Absatzplanung** beinhaltet die **Festsetzung von Zielen,** die Prognose der wahrscheinlichen Nachfrage und die Entscheidung über den gewünschten Absatz. Sie beinhaltet auch die **Strategie** zur Erreichung der festgelegten Ziele und zur **Maximierung des Umsatzes.**
+
+### Marktkennzahlen
+
+![Marktkennzahlen](/Bilder/Marktkennzahlen.png)
+
+- **Marktkapazität:** Theoretische Größe. Wie viele Güter (Menge) oder Werte (Umsatz) könnte ein Markt theoretisch im Maximum aufnehmen.
+- **Marktpotenzial**: Gibt die Menge oder die Werte an, die ein Markt unter Berücksichtigung der Kaufkraft und optimalen Voraussetzungen aufnehmen kann. *Marktpotenzial = Summe der potenziellen Absatzmenge*
+- **Marktvolumen:** Umschreibt die Menge oder Werte durch alle Mitbewerber in einem Markt, die tatsächlich umgesetzt wurden. *Marktvolumen = Summe der tatsächlichen Absatzmenge*
+- **Marktanteil:** ist der prozentuale Anteil am Marktvolumen. *Marktanteil in % = eigene Absatzmenge / Marktvolumen \* 100*
+- **Sättigungsgrad:** Zeigt (in Prozent) die Sättigung eines Marktes und ergibt sich aus dem Verhältnis von Marktvolumen und Marktpotenzial. Wenn Marktvolumen und Marktpotential gleich groß sind, ist der Markt gesättigt (= tiefe Marktattraktivität für neue Marktteilnehmer). *Sättigungsgrad = Marktvolumen / Marktpotenzial \* 100*
+

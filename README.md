@@ -26,6 +26,10 @@
 - [Unternehmensorganisation](/LF%201.2%20Aufbau-%20und%20Ablauforganisation/Unternehmensorganisation.md)
 - [Aufbauorganisation](/LF%201.2%20Aufbau-%20und%20Ablauforganisation/Aufbauorganisation.md)
 - [Ablauforganisation](/LF%201.2%20Aufbau-%20und%20Ablauforganisation/Ablauforganisation.md)
+
+## LF 1.3 Marketing
+
+- [Marketing](/LF%201.3%20Marketing/Marketing.md)
 ## LF 2.1 Arbeitsmethoden
 
 - [Projekt](/LF%202.1%20Arbeitsmethoden/Projekt.md)
