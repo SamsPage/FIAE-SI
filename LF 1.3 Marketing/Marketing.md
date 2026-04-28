@@ -198,6 +198,7 @@ Bei einer Marketingstrategie geht es also nicht einfach nur darum Werbung zu sch
 **Direkt-Marketing**
 - **direkte Ansprache** der Zielgruppe über **E-Mails** oder **Newsletter.**
 - Effiziente Möglichkeit, um mit Kunden in Verbindung zu bleiben und immer wieder auf Neuheiten aufmerksam zu machen
+
 ## weitere Klassifizierungen
 
 ![Ansoff-Matrix](/Bilder/Ansoff.png)
