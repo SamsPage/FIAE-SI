@@ -137,7 +137,7 @@ Es wird zwischen **latenten** und **offenen Bedürfnissen** unterschieden.
 
 # 2. Marketingziele festlegen - Marketingstrategien
 
-→ siehe [SMARTe Ziele]
+→ siehe [SMARTe Ziele](/LF%202.1%20Arbeitsmethoden.md#smarte-ziele-formulieren)
 
 Eine Marketingstrategie ist ein **langfristiger Plan,** mit dem ein Unternehmen seine Marketingziele erreichen kann. Dabei legt die Marketingstrategie **alle notwendigen Maßnahmen fest,** die für die Realisierung der Unternehmensziele nötig sind.
 
