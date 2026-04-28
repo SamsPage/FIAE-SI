@@ -4,7 +4,7 @@ Mehr als nur Werbung: **Marketing** ist das Konzept eines Unternehmens, um die *
 >**kurze Definition:**
 >Das Marketing eines Unternehmens macht die Produkte bekannt, verbessert das Image und erhöht dadurch die Verkaufszahlen.
 
-## Stufen des Marketingkonzepts
+# Stufen des Marketingkonzepts
 
 **1. Marktsituation analysieren:**
 - Ziel: Informationen über die aktuelle und zukünftige Marktsituation sammeln.
@@ -27,7 +27,8 @@ Mehr als nur Werbung: **Marketing** ist das Konzept eines Unternehmens, um die *
 - Ziel: Überprüfung der Zielerreichung durch Erfolgskontrolle
 - Methoden: Umsatzkontrolle, Kundenzufriedenheitsanalysen, Marktanteilsvergleiche
 
-## Marktforschung
+
+# 1. Marktsituation Analysieren - Marktforschung
 
 Die Marktforschung als **Teilgebiet** des Marketings ist eine Sammlung **interner und externer Daten** über einen bestimmten Markt. Sie konzentriert sich insbesondere auf Wettbewerber, Kunden, Ausgabenverhalten der Kunden, Markttrends, Zulieferer und Größe und Art des Marktes.
 
@@ -43,7 +44,7 @@ Die erhobenen Daten können **primär** (also selbst erhoben, Feldforschung) ode
 | Gewinnung von neuen Daten                              | Nutzung vorhandener Daten                           |
 | • Befragung<br>• Beobachtung<br>• Auslesen von Geräten | • Reports<br>• Bestehende Umfragen<br>• Statistiken |
 
-### Gegenstände der Marktforschung
+## Gegenstände der Marktforschung
 
 ![Gegenstände der Marktforschung](/Bilder/Marktforschung_Gegenstaende.png)
 
@@ -67,7 +68,8 @@ Die erhobenen Daten können **primär** (also selbst erhoben, Feldforschung) ode
 - Das **vorrangige Ziel** ist es, den **Marktanteil zu erhöhen,** mehr Einheiten abzusetzen und damit die Einnahmen erhöhen.
 - Die **Absatzplanung** beinhaltet die **Festsetzung von Zielen,** die Prognose der wahrscheinlichen Nachfrage und die Entscheidung über den gewünschten Absatz. Sie beinhaltet auch die **Strategie** zur Erreichung der festgelegten Ziele und zur **Maximierung des Umsatzes.**
 
-### Marktkennzahlen
+### Wirtschaftliche Lage
+#### Marktkennzahlen
 
 ![Marktkennzahlen](/Bilder/Marktkennzahlen.png)
 
@@ -77,3 +79,60 @@ Die erhobenen Daten können **primär** (also selbst erhoben, Feldforschung) ode
 - **Marktanteil:** ist der prozentuale Anteil am Marktvolumen. *Marktanteil in % = eigene Absatzmenge / Marktvolumen \* 100*
 - **Sättigungsgrad:** Zeigt (in Prozent) die Sättigung eines Marktes und ergibt sich aus dem Verhältnis von Marktvolumen und Marktpotenzial. Wenn Marktvolumen und Marktpotential gleich groß sind, ist der Markt gesättigt (= tiefe Marktattraktivität für neue Marktteilnehmer). *Sättigungsgrad = Marktvolumen / Marktpotenzial \* 100*
 
+#### Konjunkturphasen
+
+**Expansion:** (Aufschwung)
+- Wirtschaft wächst, Nachfrage steigt
+- Es wird investiert
+- Fachkräftemangel
+
+**Boom:** (Hochkonjunktur)
+- Wirtschaft erreicht Höchstleistung, BIP ist hoch
+- niedrige Arbeitslosigkeit, mögliche Engpässe in der Produktion
+
+**Rezession:** (Abschwung)
+- Nachfrage nimmt ab, Arbeitslosigkeit steigt
+- reduzierte Investitionen
+
+**Depression:** (Tiefstand)
+- Die Wirtschaft erreicht den Tiefpunkt, Produktion ist niedrig
+- hohe Arbeitslosigkeit, Unternehmen warten auf wirtschaftliche Erholung
+
+
+### Wettbewerbsanalyse
+
+- spielt eine entscheidende Rolle im Marketing
+- ermöglicht es Unternehmen, **strategisch** zu agieren, indem sie Einblicke in die Aktivitäten der Konkurrenz bietet
+- hilft **Marktnischen** oder **potenzielle Bedrohungen** frühzeitig zu erkennen → Entwicklung effektiver Marketingstrategien bei, die auf fundiertem Wissen basieren
+
+![Beispiele Wettbewerbsanalyse](/Bilder/Wettbewerbsanalyse_Beispiele.png)
+
+Eine der bekanntesten Methoden der Wettbewerbsanalyse ist Porters **Modell der fünf Kräfte (Five Forces)** Dieses Modell bietet einen Rahmen, um die Wettbewerbsintensität und die Attraktivität eines Marktes zu bewerten. Die fünf Kräfte umfassen die **Bedrohung durch neue Anbieter, die Verhandlungsmacht der Lieferanten, die Verhandlungsmacht der Kunden, die Bedrohung durch Ersatzprodukte oder -dienste und die Rivalität unter den bestehenden Wettbewerbern.**
+
+Dieses Modell hilft Unternehmen zu verstehne, wie verschiedene Kräfte die **Rentabilität und Wettbewerbsfähigkeit** beeinflussen und welche **strategischen Schritte** unternommen werden können, um eine stärkere Position im Markt zu erlangen.
+
+**Porters fünf Kräfte** sind ein Analyserahmen, der entwickelt wurde um die **Wettbewerbsintensität und -attraktivität** eines Marktes zu bewerten.
+
+![Fünf Kräfte](/Bilder/Wettbewerb_5Forces.png)
+
+Neben der Markt- und Wettbewerbsanalyse sowie den fünf Kräften gibt es weitere Techniken, die tiefergehende Einblicke in die Wettbewerbslandschaft bieten können.
+
+Dazu zählen:
+- **SWOT-Analyse** (Strengths, Weaknesses, Opportunities, Threats)
+- **PESTEL-Analyse** (Political, Economical, Social, Technological, Ecological, Legal)
+- **Benchmarking** gegen Branchenbeste: **Vergleich** von Herstellungsprozessen, Managementpraktiken und Produkten oder Dienstleistungen, um **Leistungsdefizite aufzudecken**
+- **Wertkettenanalyse:** Unternehmensaufgaben in **strategisch relevante Aktivitäten** zerlegen. Unterteilung und Ausrichtung der Unternehmensaktivitäten im Hinblick auf ihren Beitrag zur **Befriedigung und Erhöhung des Kundennutzens.** 
+
+### Kundenbedürfnisse
+
+> [!IMPORTANT]
+> **Definition:**
+> Kundenbedürfnisse entstehen durch **subjektiv wahrgenommene Mängel** oder Unzufriedenheit mit den aktuellen Umständen. Sie **beziehen sich nicht direkt** auf ein **bestimmtes Produkt** oder eine Dienstleistung, sondern auf das Bedürfnis nach einer **Lösung für ein Problem** oder einen Wunsch
+
+![Kundenbedürfnisse](/Bilder/Kundenbeduerfnisse.png)
+
+Es wird zwischen **latenten** und **offenen Bedürfnissen** unterschieden.
+
+![Latente zu Offene Bedürfnisse](/Bilder/Beduerfnisse_latent-offen.png)
+
+# 2. Marketingziele festlegen
