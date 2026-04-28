@@ -198,13 +198,12 @@ Bei einer Marketingstrategie geht es also nicht einfach nur darum Werbung zu sch
 **Direkt-Marketing**
 - **direkte Ansprache** der Zielgruppe über **E-Mails** oder **Newsletter.**
 - Effiziente Möglichkeit, um mit Kunden in Verbindung zu bleiben und immer wieder auf Neuheiten aufmerksam zu machen
-
-Weiterhin kann man Marketingstrategien nach dem verfolgten Ziel klassifizieren:
-
-![Marketing-Strategien Klassifizierung](/Bilder/Marketing-Klassifizierung.png)
-
-## Matrizen
+## weitere Klassifizierungen
 
 ![Ansoff-Matrix](/Bilder/Ansoff.png)
 
 ![BCG-Portfolio](/Bilder/BCG-Portfolio.png)
+
+Weiterhin kann man Marketingstrategien nach dem verfolgten Ziel klassifizieren:
+
+![Marketing-Strategien Klassifizierung](/Bilder/Marketing-Klassifizierung.png)
