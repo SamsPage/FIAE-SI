@@ -135,4 +135,74 @@ Es wird zwischen **latenten** und **offenen Bedürfnissen** unterschieden.
 
 ![Latente zu Offene Bedürfnisse](/Bilder/Beduerfnisse_latent-offen.png)
 
-# 2. Marketingziele festlegen
+# 2. Marketingziele festlegen - Marketingstrategien
+
+→ siehe [SMARTe Ziele]
+
+Eine Marketingstrategie ist ein **langfristiger Plan,** mit dem ein Unternehmen seine Marketingziele erreichen kann. Dabei legt die Marketingstrategie **alle notwendigen Maßnahmen fest,** die für die Realisierung der Unternehmensziele nötig sind.
+
+Unternehmen betrachten dafür beispielsweise ihre **aktuelle Konkurrenz** oder die **generelle Marktsituation.** Durch die Festlegung einer Marketingstrategie, kann das Unternehmen **dann bessere Entscheidungen** treffen. So werden Produkte oder Dienstleistungen erfolgreicher verkauft.
+
+Bei einer Marketingstrategie geht es also nicht einfach nur darum Werbung zu schalten. Stattdessen will das Unternehmen ihre **Zielgruppe verstehen und direkt ansprechen.** Ohne einen klaren Plan besteht nämlich die Gefahr, die Zielgruppe zu verfehlen und viel Zeit und Geld zu verschwenden.
+
+## Offline-Marketing
+
+**Erlebnismarketing:**
+- Es soll den Kunden ein **einzigartiges** und **persönliches** Erlebnis mit der Marke geschenkt werden
+- Viel auf Messen zu finden → Produkte werden ausprobiert und mehr über die Marke gelernt
+- Es soll nicht nur von Produkten überzeugt werden, sondern die Marke durch Verknüpfung mit einem einmaligen Erlebnis dauerhaft positiv im Kundengedächtnis bleiben
+- Primär: Interaktion zwischen Kunden und Marke
+
+**Empfehlungsmarketing:**
+- Kunden sollen die Marke an andere (potenzielle) Kunden weiterempfehlen
+- Kann gefördert werden: Empfehlungen **belohnen,** z.B. durch Zahlung oder Gutschein
+- Bitte um **Bewertungen (Rezensionen)** und Empfehlungen
+- Auch Mitarbeiter: **Give-Aways** wie bedruckte Stifte oder Notizbücher verbreiten sie die Markenbotschaft an andere
+
+**Guerilla-Marketing:**
+- kreative Ideen, besonders skurril / ungewöhnlich dargestellt
+- lebt von Überraschungseffekt, der die Aufmerksamkeit der Leute an sich zieht
+- Bsp.: überdimensional große Plakate mit ungewöhnlichen Abbildungen
+
+**Sponsoring:**
+- durch Sponsoring von Sportler, Kulturevents oder soziale Organisation kann das Image nachhaltig geprägt und Bekanntheit vergrößert werden
+- finanzielle oder materielle Hilfe, vertraglich vereinbart → dafür wird Marke entsprechend präsentiert
+- Am besten für einen **Zweck,** der der Zielgruppe der Marke wichtig ist (ökologisch ausgerichtetes Unternehmen sponsort eine Umweltorganisation)
+
+**Corporate Identity:**
+- einprägsames **Logo,** eindeutige **Unternehmensfarben** sowie ein wiedererkennbarer **Slogan**
+- Wahrnehmung des Unternehmens in der Öffentlichkeit und Bindung zu Kunden gesteigert
+- **Wiedererkennungswert** der Marke profitiert
+
+## Online-Marketing
+
+**Content-Marketing:**
+- nicht zwingend für die Produkte einer Marke geworben, sondern über Produkte  und Unternehmensstrukturen **informiert.**
+- Durch Teilen von **Expertenwissen** kann ein Unternehmen zur **gefragten Anlaufstelle** für die Zielgruppe werden
+- neben klassischen Artikeln eignen sich auch **Videos** und **Podcasts.**
+- redaktioneller Aufwand → um langfristig erfolgreich zu sein, muss Content-Marketing ständig gepflegt werden
+
+**Influencer-Marketing:**
+- eignet sich besonders gut, um eine **bestimmte Zielgruppe** anzusprechen
+- Unternehmen arbeitet mit bekannten Influencern zusammen, um Produkte oder Dienstleistungen an die Zuschauerschaft dieser Persönlichkeiten zu vermarkten
+- wichtig: Influencer muss zu Werten des Unternehmens passen, damit dieses glaubwürdig bleibt
+
+**Social-Media-Marketing:**
+- Plattformen wie Instagram, Twitter oder TikTok sind wichtige Marketinginstrumente
+- Sein Unternehmen auf den verschiedenen Kanälen zu präsentieren steigert die Bekanntheit und lockt vor allem **junge Zielgruppen** an
+
+**Suchmaschinenoptimierung** (SEO)
+- wird ein Produkt oder eine Dienstleistung auf Google eingegeben, profitieren die Websites, die **ganz oben** angezeigt werden.
+- Durch Suchmaschinenoptimierung (strategische Platzierung von Schlagwörtern) kann eine Unternehmen die eigene Position auf den Ranglisten verbessern und für mehr potenzielle Kunden sichtbar werden.
+
+**Direkt-Marketing**
+- **direkte Ansprache** der Zielgruppe über **E-Mails** oder **Newsletter.**
+- Effiziente Möglichkeit, um mit Kunden in Verbindung zu bleiben und immer wieder auf Neuheiten aufmerksam zu machen
+
+Weiterhin kann man Marketingstrategien nach dem verfolgten Ziel klassifizieren:
+
+![Marketing-Strategien Klassifizierung](/Bilder/Marketing-Klassifizierung.png)
+
+## Ansoff-Matrix
+
+![Ansoff-Matrix](/Bilder/Ansoff.png)
