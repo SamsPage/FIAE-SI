@@ -203,6 +203,8 @@ Weiterhin kann man Marketingstrategien nach dem verfolgten Ziel klassifizieren:
 
 ![Marketing-Strategien Klassifizierung](/Bilder/Marketing-Klassifizierung.png)
 
-## Ansoff-Matrix
+## Matrizen
 
 ![Ansoff-Matrix](/Bilder/Ansoff.png)
+
+![BCG-Portfolio](/Bilder/BCG-Portfolio.png)
