@@ -21,7 +21,7 @@ Mehr als nur Werbung: **Marketing** ist das Konzept eines Unternehmens, um die *
 
 **4. Marketinginstrument einsetzen:**
 - Ziel: Einsatz von Maßnahmen zur Umsetzung der Strategie (Produktgestaltung, Preisstrategie, Vertrieb, Kommunikation)
-- Marketing-Mix: die 4 Ps - Produkt, Preis, Platzierung (Distribution), Promotion (Kommunikation)
+- [Marketing-Mix](/LF%201.3%20Marketing/Werbemittel%20und%20Werbeträger.md): die 4 Ps - Produkt, Preis, Platzierung (Distribution), Promotion (Kommunikation)
 
 **5. Marketingerfolg beurteilen:**
 - Ziel: Überprüfung der Zielerreichung durch Erfolgskontrolle
