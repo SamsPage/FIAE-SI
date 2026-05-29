@@ -21,7 +21,7 @@ Mehr als nur Werbung: **Marketing** ist das Konzept eines Unternehmens, um die *
 
 **4. Marketinginstrument einsetzen:**
 - Ziel: Einsatz von Maßnahmen zur Umsetzung der Strategie (Produktgestaltung, Preisstrategie, Vertrieb, Kommunikation)
-- [Marketing-Mix](/LF%201.3%20Marketing/Werbemittel%20und%20Werbeträger.md): die 4 Ps - Produkt, Preis, Platzierung (Distribution), Promotion (Kommunikation)
+- [Marketing-Mix](Marketing-Mix.md): die 4 Ps - Produkt, Preis, Platzierung (Distribution), Promotion (Kommunikation)
 
 **5. Marketingerfolg beurteilen:**
 - Ziel: Überprüfung der Zielerreichung durch Erfolgskontrolle
@@ -52,7 +52,7 @@ Die erhobenen Daten können **primär** (also selbst erhoben, Feldforschung) ode
 - Ziel: Verstehen der Kundenwünsche, Erwartungen und Kaufverhalten
 - Kundenforschung hilft dabei, gezielte Angebote zu entwickeln.
 
-**Konkurrenzforschung):
+**Konkurrenzforschung:**
 - Ziel: Analyse der Wettbewerber, deren Stärken und Schwächen
 - Konkurrenzforschung unterstützt Unternehmen dabei, sich strategisch zu positionieren
 
@@ -133,7 +133,10 @@ Dazu zählen:
 
 Es wird zwischen **latenten** und **offenen Bedürfnissen** unterschieden.
 
-![Latente zu Offene Bedürfnisse](/Bilder/Beduerfnisse_latent-offen.png)
+![Latente zu Offene Bedürfnisse|697](/Bilder/Beduerfnisse_latent-offen.png)
+
+> [!NOTE]
+> Aus den Bedürfnissen der Kunden entstehen Kaufmotive.
 
 # 2. Marketingziele festlegen - Marketingstrategien
 
